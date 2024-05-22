@@ -1,8 +1,11 @@
 body {
     text-align: center;
-    background-color: black;
+    background-color: rgb(30, 92, 66);
     text-decoration-color: rgb(4, 44, 16);
 }
 h3 {
     color: yellow;
+}
+p {
+    color: rgb(34, 101, 152);
 }
